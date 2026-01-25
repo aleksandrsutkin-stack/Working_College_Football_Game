@@ -14,7 +14,7 @@ import math
 # 4) Deterministic AI: Simulations are consistent on refresh.
 # ==============================================================================
 
-STATE_VERSION = 19.1
+STATE_VERSION = 20
 
 # Only allow these keys to be loaded from JSON (Security/Stability)
 ALLOWED_SAVE_KEYS = {
